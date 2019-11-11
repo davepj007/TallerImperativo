@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/EjerciciosImperativo.dir/main.c.o  -o EjerciciosImperativo.exe -Wl,--out-implib,libEjerciciosImperativo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
